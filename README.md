@@ -24,6 +24,10 @@ Audiophile offers flexible conversion options, enabling you to select your prefe
 
 # How to Use:
 
+Add ffmpeg.exe path in script before using.
+
+Run the Script.
+
 Select your desired YouTube URL(s) for audio extraction.
 
 Choose the library source you'd like to use - Pytube, Youtube_dl, or yt_dlp.
