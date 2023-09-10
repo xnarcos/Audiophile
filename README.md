@@ -1,5 +1,5 @@
 # Audiophile
-Audiophile is a versatile and user-friendly Python script with a sleek GUI interface that caters to all your audio downloading and conversion needs from YouTube URLs. Whether you're an avid music enthusiast or just need to grab audio content for various purposes, Audiophile has you covered.
+Audiophile is a versatile and user-friendly Python script with a sleek GUI interface that caters to all your audio downloading and conversion needs from YouTube URLs.
 
 # Features:
 **Multiple Audio Formats:** 
@@ -24,9 +24,9 @@ Audiophile offers flexible conversion options, enabling you to select your prefe
 
 # How to Use:
 
-Add ffmpeg.exe path in script before using.
+Add ffmpeg.exe path in script before using. (optional)
 
-Run the Script.
+Run the Program.
 
 Select your desired YouTube URL(s) for audio extraction.
 
