@@ -1,0 +1,7 @@
+ffmpeg
+pydub
+PyQT5
+urllib.parse
+youtube_dl
+pytube
+yt_dlp
